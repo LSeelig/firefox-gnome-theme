@@ -212,7 +212,7 @@ toolbarspring {
 
 #urlbar .urlbar-icon {
 	margin: 0 !important;
-	height: 100%  !important;
+	/* height: 100%  !important; */
 }
 #notification-popup-box {
 	height: 100%  !important;
